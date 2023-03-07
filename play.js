@@ -1,8 +1,8 @@
 const btnDescriptions = [
-  { file: 'assets/sound1.mp3', hue: 120 },
-  { file: 'assets/sound2.mp3', hue: 0 },
-  { file: 'assets/sound3.mp3', hue: 60 },
-  { file: 'assets/sound4.mp3', hue: 240 },
+  { file: 'sound1.mp3', hue: 120 },
+  { file: 'sound2.mp3', hue: 0 },
+  { file: 'sound3.mp3', hue: 60 },
+  { file: 'sound4.mp3', hue: 240 },
 ];
 
 class Button {
